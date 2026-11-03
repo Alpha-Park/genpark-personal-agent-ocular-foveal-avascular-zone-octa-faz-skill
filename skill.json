@@ -1,0 +1,24 @@
+{
+  "name": "genpark-personal-agent-ocular-foveal-avascular-zone-octa-faz-skill",
+  "version": "1.0.0",
+  "description": "Calculates OCTA Foveal Avascular Zone Area (mm2), Perimeter (mm), Circularity Index (C), and Parafoveal Vessel Density (FD-300%) to assess retinal capillary dropout.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "ophthalmology",
+    "octa",
+    "retina",
+    "faz",
+    "foveal-avascular-zone",
+    "diabetic-retinopathy",
+    "microcirculation",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
